@@ -1,7 +1,5 @@
-﻿namespace Common
-{
-    public class Class1
-    {
+﻿namespace Common;
 
-    }
+public class Class1
+{
 }
