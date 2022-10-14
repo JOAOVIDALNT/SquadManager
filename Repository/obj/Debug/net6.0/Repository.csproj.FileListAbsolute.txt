@@ -1,0 +1,15 @@
+C:\projects\C#\SquadManager\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\projects\C#\SquadManager\Repository\bin\Debug\net6.0\Repository.dll
+C:\projects\C#\SquadManager\Repository\bin\Debug\net6.0\Repository.pdb
+C:\projects\C#\SquadManager\Repository\bin\Debug\net6.0\Common.dll
+C:\projects\C#\SquadManager\Repository\bin\Debug\net6.0\Common.pdb
+C:\projects\C#\SquadManager\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\projects\C#\SquadManager\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\C#\SquadManager\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\projects\C#\SquadManager\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\projects\C#\SquadManager\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\projects\C#\SquadManager\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+C:\projects\C#\SquadManager\Repository\obj\Debug\net6.0\Repository.dll
+C:\projects\C#\SquadManager\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\projects\C#\SquadManager\Repository\obj\Debug\net6.0\Repository.pdb
+C:\projects\C#\SquadManager\Repository\obj\Debug\net6.0\ref\Repository.dll
